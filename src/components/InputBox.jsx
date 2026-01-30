@@ -9,12 +9,12 @@ import {
   CommandGroup,
   CommandInput,
   CommandItem,
-} from "@/components1/ui/command";
+} from "@/components/ui/command";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/components1/ui/popover";
+} from "@/components/ui/popover";
 
 function InputBox({
   label,

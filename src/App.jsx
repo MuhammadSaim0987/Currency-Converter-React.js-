@@ -1,5 +1,5 @@
 import { useState } from "react";
-import InputBox from "./components1/InputBox";
+import InputBox from "./components/InputBox";
 import useCurrencyInfo from "./Hooks/useCurrencyInfo";
 
 // currency metadata (code + full name)
